@@ -16,7 +16,7 @@ namespace Hospital_Stay_Costs
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new goBox());
         }
     }
 }
